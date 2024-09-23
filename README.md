@@ -1,4 +1,4 @@
 # FirstGitHub
 This is my first Repository.
 <br>
-Author-Ritika Pirag
+Author-Ritika Pirag(Ritika Gurjar)
